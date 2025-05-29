@@ -285,3 +285,11 @@ button {
 button:hover {
     box-shadow: 1px 1px 11px 8px #e7a83a;
 }
+
+.buttons {
+    display: flex;
+}
+
+.buttons button {
+    margin: 20px;
+}
